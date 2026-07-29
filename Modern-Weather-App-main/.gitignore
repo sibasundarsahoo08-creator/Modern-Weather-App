@@ -1,0 +1,41 @@
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Logs
+*.log
+
+# Node
+node_modules/
+
+# Environment
+.env
+
+# Temporary
+*.tmp
+
+# Cache
+.cache/
+
+# Build
+dist/
+build/
+
+# OS Files
+*.swp
+*.swo
+
+# npm
+package-lock.json
+
+# yarn
+yarn.lock
