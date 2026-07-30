@@ -153,10 +153,10 @@ See the LICENSE file for details.
 
 ## 👨‍💻 Author
 
-Srusti sanjibani das
+Siba Sundar Sahoo
 
 GitHub:
-https://github.com/srusti-das-git
+https://github.com/sibasundarsahoo08-creator
 
 ---
 
