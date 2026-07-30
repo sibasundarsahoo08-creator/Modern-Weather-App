@@ -1,10 +1,163 @@
+# 🌤 Modern Weather App
+
+A beautiful and responsive Weather App built using **HTML, CSS, and JavaScript** that fetches real-time weather data from the WeatherAPI.
+
+## 📸 Preview
+
 ![Weather App Screenshot](screenshot.png)
 
+---
 
-# Modern-Weather-App
-<<<<<<< HEAD
-Modern Weather App delivers real-time weather updates with a clean, intuitive interface. It features current conditions, hourly and 7-day forecasts, air quality, humidity, wind speed, UV index, sunrise/sunset times, and location-based weather.
-=======
-A modern weather app delivers real-time forecasts, radar maps, and severe alerts with sleek design. It uses GPS for hyperlocal updates, offers widgets, voice integration, and personalized notifications—keeping users informed, safe, and prepared anytime, anywhere. 
->>>>>>> bbf66c5158c159d4af79d32921f3a5aff50596be
+## ✨ Features
 
+- 🔍 Search weather by city name
+- 📍 Current location weather
+- 🌡 Current temperature
+- ☁ Weather condition
+- 💧 Humidity
+- 💨 Wind speed
+- 🌅 Sunrise & Sunset
+- 🌙 Moon Phase
+- 🌫 Air Quality
+- 🌞 UV Index
+- 👁 Visibility
+- 🌡 Feels Like Temperature
+- 📅 5-Day Weather Forecast
+- 🎨 Glassmorphism UI
+- 🌈 Animated Gradient Background
+- 📱 Responsive Design
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- JavaScript (ES6)
+- WeatherAPI
+
+---
+
+## 📂 Project Structure
+
+```
+Weather-App/
+│
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+├── LICENSE
+├── .gitignore
+└── screenshot.png
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/weather-app.git
+```
+
+### 2. Open the Project
+
+Simply open the folder in VS Code.
+
+### 3. Run
+
+Open `index.html` in your browser.
+
+or use Live Server extension.
+
+---
+
+## 🔑 API Setup
+
+This project uses **WeatherAPI**.
+
+Get a free API key from
+
+https://www.weatherapi.com/
+
+Replace the API key inside `script.js`.
+
+```javascript
+const apiKey = "YOUR_API_KEY";
+```
+
+---
+
+## 📸 Screenshots
+
+Add screenshots here.
+
+Example:
+
+```
+screenshots/
+    home.png
+```
+
+---
+
+## 🎯 Future Improvements
+
+- Dark Mode
+- Weather Maps
+- Hourly Forecast
+- Weather Alerts
+- Multiple Languages
+- Favorite Cities
+- PWA Support
+- Offline Caching
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome.
+
+1. Fork the project
+2. Create a feature branch
+
+```bash
+git checkout -b feature-name
+```
+
+3. Commit changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request
+
+---
+
+## 📝 License
+
+This project is licensed under the MIT License.
+
+See the LICENSE file for details.
+
+---
+
+## 👨‍💻 Author
+
+Siba Sundar Sahoo
+
+GitHub:
+https://github.com/sibasundarsahoo08-creator
+
+---
+
+⭐ Don't forget to Star the repository if you like this project!
